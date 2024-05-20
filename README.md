@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anushtha30
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning frontend
+- 👋 Hi, I’m Anushtha Sharma
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to work in internship!
 - 📫 How to reach me on insta justt.anuuu30
 - 😄 Pronouns: she/her
