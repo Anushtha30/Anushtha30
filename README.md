@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE (3rd Year)
+- 🎓 B.Tech CSE AI/ML 
 - 💡 Passionate about Web Development & AI
 - 🚀 Currently building real-world projects
 - 🎯 Open to internships & opportunities
