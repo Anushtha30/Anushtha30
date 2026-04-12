@@ -16,3 +16,5 @@
 - 🧠 IT Support Ticket System (Full Stack)
 - 🤖 Moltbook (Behavioral Bot Detection System)
 - 🎨 Portfolio Website
+
+![Anushtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushtha30&show_icons=true&theme=tokyonight)
