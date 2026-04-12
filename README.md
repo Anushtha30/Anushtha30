@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushtha Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | B.Tech CSE</h3>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | B.Tech CSE</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%7C+ML+Explorer;Open+to+Internships;Building+Real+World+Projects&center=true&width=500&height=45">
@@ -18,22 +18,59 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-### ⚙️ Backend
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 
-### 🗄️ Database
+---
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+
+---
+
+### ☁️ Cloud Technologies
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+
+---
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+---
+
+### 🤖 Machine Learning
+- NLP, Computer Vision, Deep Learning  
+- CNNs, RNNs, Clustering, Regression, Classification  
+- Reinforcement Learning  
+
+---
+
+### 🔄 Data & Pipelines
+- Data Preprocessing  
+- ETL Basics  
+- Pipeline Development  
+
+---
+
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+
+---
+
+### 🔗 APIs & Architecture
+- RESTful APIs  
+- Microservices Architecture  
+- API Integration  
 
 ---
 
