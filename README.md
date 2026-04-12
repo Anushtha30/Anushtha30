@@ -1,12 +1,18 @@
-- 👋 Hi, I’m Anushtha Sharma
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning frontend web development
-- 💞️ I’m looking to work in internship!
-- 📫 How to reach me on insta justt.anuuu30
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm noob in programing !!
+# Hi 👋 I'm Anushtha Sharma
 
-<!---
-Anushtha30/Anushtha30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full Stack Developer | AI Enthusiast  
+🎓 B.Tech CSE AI\ML
+
+---
+
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB, SQL
+
+---
+
+## 🔥 Projects
+- 🧠 IT Support Ticket System (Full Stack)
+- 🤖 Moltbook (Behavioral Bot Detection System)
+- 🎨 Portfolio Website
