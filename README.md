@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anushtha Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | B.Tech CSE</h3>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Engineer | AWS Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%7C+ML+Explorer;Open+to+Internships;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%7C+ML+Engineer;AWS+Cloud+Enthusiast;Building+Real+World+AI+Systems&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE AI/ML 
-- 💡 Passionate about Web Development & AI
-- 🚀 Currently building real-world projects
-- 🎯 Open to internships & opportunities
-- ⚡ Fun fact: I turn coffee into code ☕💻
+- 🎓 B.Tech CSE (AI/ML), 2026  
+- 💼 Experience as **Python Developer (AI & Cloud)**  
+- ☁️ Skilled in **AWS (EC2, S3, Lambda, EKS)**  
+- 🤖 Passionate about **AI + Full Stack Systems**  
+- 🚀 Built and deployed real-world applications  
+- 🎯 Open to internships & opportunities  
 
 ---
 
@@ -35,8 +36,14 @@
 
 ---
 
-### ☁️ Cloud Technologies
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+- AWS: EC2, S3, Lambda, EKS  
+- CI/CD Pipelines  
+- Microservices Architecture  
 
 ---
 
@@ -46,53 +53,65 @@
 
 ---
 
-### 🤖 Machine Learning
+### 🤖 AI / Machine Learning
 - NLP, Computer Vision, Deep Learning  
-- CNNs, RNNs, Clustering, Regression, Classification  
+- CNNs, RNNs  
+- Classification, Regression, Clustering  
 - Reinforcement Learning  
 
 ---
 
-### 🔄 Data & Pipelines
+### 🔄 Data Engineering
 - Data Preprocessing  
-- ETL Basics  
-- Pipeline Development  
-
----
-
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+- ETL Pipelines  
+- Pipeline Optimization  
 
 ---
 
 ### 🔗 APIs & Architecture
 - RESTful APIs  
-- Microservices Architecture  
 - API Integration  
+- Scalable System Design  
 
 ---
 
 ## 🔥 Projects
 
-### 🧠 IT Support Ticket System
-- Full-stack system for managing support tickets
-- Features: Authentication, Admin Dashboard, Real-time updates  
-- Tech: React, Node.js, MongoDB  
+### 🧠 IT Support Ticket System (Full Stack)
+- Built using **React, Node.js, SQL, MongoDB**  
+- Handled **50+ users** with real-time ticket tracking  
+- Designed REST APIs for secure and scalable operations  
+- Admin dashboard with analytics & workflow management  
 
 ---
 
-### 🤖 Moltbook (Bot Detection System)
-- Behavioral-based bot detection system  
-- Detects real vs fake users using interaction patterns  
-- Uses AI/NLP concepts  
+### 🤖 SentinelX Bot Detection System
+- Behavioral biometrics-based bot detection  
+- Tracks clicks, keystrokes, and user interaction patterns  
+- Real-time classification: human / suspicious / bot  
+- NLP-based spam detection system  
 
 ---
 
-### 🎨 Portfolio Website
-- Personal portfolio showcasing projects & skills  
-- Clean UI with responsive design  
+### 📄 AI PDF Reader & Converter
+- AI-powered document processing system  
+- Text extraction, keyword detection & classification  
+- Optimized pipelines → **30% faster processing**  
+
+---
+
+### 🎨 Neon Air Draw (AI Spatial Interface)
+- Gesture-based drawing using **MediaPipe + OpenCV**  
+- Real-time tracking (~30 FPS)  
+- Built with React + Canvas API  
+- Touchless human-computer interaction system  
+
+---
+
+### 😊 Real-Time Emotion Detection
+- Built using **Python + OpenCV + ML models**  
+- Trained on 1000+ images (80–85% accuracy)  
+- Live webcam-based emotion prediction  
 
 ---
 
@@ -109,7 +128,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anushtha-sharma">
+  <a href="https://www.linkedin.com/in/anushtha-sharma31/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://anushthasharma-portfolio.netlify.app/">
@@ -122,4 +141,4 @@
 
 ---
 
-<p align="center">✨ “Building today what others will use tomorrow.” ✨</p>
+<p align="center">✨ Building intelligent systems, not just projects ✨</p>
