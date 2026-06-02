@@ -1,185 +1,143 @@
 <h1 align="center">Hi 👋, I'm Anushtha Sharma</h1>
 
-<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | AWS Cloud Enthusiast</h3>
+<h3 align="center">AI/ML Engineer • Full Stack Developer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;AWS+Cloud+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Production+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Full+Stack+Development;Exploring+Cloud+Technologies;Learning+Something+New+Every+Day" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 **B.Tech CSE (AI/ML), 2026**
+I'm a B.Tech CSE (AI/ML) student who enjoys building things that solve real problems.
 
-💻 Full Stack Developer with hands-on experience building AI-powered applications, cloud solutions, and scalable web systems.
+Over the past few years, I've worked on AI-powered applications, full-stack systems, cloud deployments, and computer vision projects. I enjoy taking an idea from a whiteboard sketch to a working product.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, NLP, and Full Stack Development.
+Recently I've been exploring:
 
-☁️ Experienced with AWS services including EC2, S3, Lambda, and EKS.
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full Stack Development
+- ☁️ AWS Cloud Technologies
+- 📊 Data Engineering & Automation
+- 🧩 Data Structures & Algorithms
 
-📈 Solved **150+ LeetCode problems** and actively improving DSA skills.
-
-🚀 Open to Software Development, AI/ML, Cloud Engineering, and Full Stack opportunities.
+Outside of coding, you'll usually find me improving my LeetCode profile, refining projects, or learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm Working On
 
-### Programming Languages
+🔹 AI-powered applications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+🔹 Full Stack web systems
 
-### Frontend & Frameworks
+🔹 Cloud-native deployments
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+🔹 Computer Vision projects
 
-### AI / Machine Learning
+🔹 Sign Language Recognition systems
 
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+---
 
-- Computer Vision
+## Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- Node.js
+- SQL
+
+### Frontend
+
+- React
+- HTML
+- CSS
+
+### AI / ML
+
+- Scikit-Learn
+- OpenCV
 - NLP
 - Deep Learning
-- CNNs & RNNs
+- Computer Vision
 - Reinforcement Learning
-- Classification
-- Regression
-- Clustering
 
-### Cloud & DevOps
+### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-**AWS Services:** EC2 • S3 • Lambda • EKS
+- AWS EC2
+- AWS S3
+- AWS Lambda
+- AWS EKS
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+- MongoDB
+- PostgreSQL
 
 ---
 
-## 💼 Professional Experience
+## Featured Projects
 
-### Python Developer (AI & Cloud) | Dilwado.com
+### 🧠 Sign Sync
 
-✅ AI PDF Reader & Converter
+A real-time sign language recognition platform that converts gestures into text and speech using MediaPipe, NLP, and React.
 
-✅ IT Support Ticket Management System
+### 🤖 SentinelX
 
-✅ REST API Development
-
-✅ AWS Cloud Integration
-
-✅ Document Processing Pipelines
-
----
-
-### Python Developer (AI-Focused) | Arambh Softech
-
-✅ Real-Time Emotion Detection
-
-✅ Machine Learning Model Integration
-
-✅ AI Web Applications
-
-✅ Live Webcam Prediction Systems
-
----
-
-## 🔥 Featured Projects
-
-### 🧠 Sign Sync – Sign Language Recognition
-
-- MediaPipe Hands
-- React + TypeScript
-- NLP Prediction Engine
-- Text-to-Speech
-- Hindi & English Support
-
-### 🤖 SentinelX Bot Detection Guardrail
-
-- Behavioral Biometrics
-- Bot Detection
-- Spam Detection
-- Real-Time Monitoring
-- Session Analytics
+A behavioral biometrics system that analyzes user activity patterns to detect bots and suspicious behavior in real time.
 
 ### 🎨 Neon Air Draw
 
-- Gesture-Based Drawing
-- MediaPipe + OpenCV
-- React + Canvas API
-- Real-Time Hand Tracking
+A gesture-controlled drawing application that turns hand movements into digital artwork using computer vision.
 
-### 😊 Real-Time Emotion Detection
+### 📄 AI PDF Reader
 
-- Python
-- OpenCV
-- Machine Learning
-- Live Webcam Analysis
+An intelligent document processing system capable of extracting, classifying, and analyzing PDF content.
 
-### 📄 AI PDF Reader & Converter
+### 😊 Emotion Detection System
 
-- Intelligent Document Processing
-- Text Extraction
-- Content Classification
-- Optimized Data Pipelines
+A machine learning application that predicts emotions from live webcam feeds using OpenCV and custom-trained models.
 
 ---
 
-## 📊 GitHub Stats
+## A Few Numbers
+
+📚 150+ LeetCode Problems Solved
+
+🚀 20+ GitHub Repositories
+
+💻 Multiple Industry Internships
+
+🤖 Several AI & Full Stack Projects Built
+
+☁️ AWS Cloud Certified
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anushtha30&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushtha30&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushtha30&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anushtha30&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-🏅 150+ LeetCode Problems Solved
-
-🏅 AWS Cloud Computing Certified
-
-🏅 IBM Data Science Certified
-
-🏅 Cisco Certification
-
-🏅 Multiple AI & Full Stack Projects Deployed
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anushtha-sharma31/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://anushthasharmaxai.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
-  </a>
-
-  <a href="https://leetcode.com/u/anushtha30/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Anushtha30&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">✨ Building Intelligent Systems, Not Just Projects ✨</h3>
+## Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/anushtha-sharma31
+
+🌐 Portfolio: anushthasharmaxai.netlify.app
+
+💻 LeetCode: leetcode.com/u/anushtha30
+
+📧 Email: anushthasharma30@gmail.com
+
+---
+
+> "I enjoy building intelligent systems that make technology more useful, accessible, and impactful."
