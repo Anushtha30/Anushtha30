@@ -1,144 +1,185 @@
 <h1 align="center">Hi 👋, I'm Anushtha Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Engineer | AWS Cloud Enthusiast</h3>
+
+<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | AWS Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%7C+ML+Engineer;AWS+Cloud+Enthusiast;Building+Real+World+AI+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;AWS+Cloud+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Production+Applications" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE (AI/ML), 2026  
-- 💼 Experience as **Python Developer (AI & Cloud)**  
-- ☁️ Skilled in **AWS (EC2, S3, Lambda, EKS)**  
-- 🤖 Passionate about **AI + Full Stack Systems**  
-- 🚀 Built and deployed real-world applications  
-- 🎯 Open to internships & opportunities  
+
+🎓 **B.Tech CSE (AI/ML), 2026**
+
+💻 Full Stack Developer with hands-on experience building AI-powered applications, cloud solutions, and scalable web systems.
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, NLP, and Full Stack Development.
+
+☁️ Experienced with AWS services including EC2, S3, Lambda, and EKS.
+
+📈 Solved **150+ LeetCode problems** and actively improving DSA skills.
+
+🚀 Open to Software Development, AI/ML, Cloud Engineering, and Full Stack opportunities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### Frontend & Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+### AI / Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+- Computer Vision
+- NLP
+- Deep Learning
+- CNNs & RNNs
+- Reinforcement Learning
+- Classification
+- Regression
+- Clustering
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+**AWS Services:** EC2 • S3 • Lambda • EKS
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ---
 
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+## 💼 Professional Experience
+
+### Python Developer (AI & Cloud) | Dilwado.com
+
+✅ AI PDF Reader & Converter
+
+✅ IT Support Ticket Management System
+
+✅ REST API Development
+
+✅ AWS Cloud Integration
+
+✅ Document Processing Pipelines
 
 ---
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+### Python Developer (AI-Focused) | Arambh Softech
 
-- AWS: EC2, S3, Lambda, EKS  
-- CI/CD Pipelines  
-- Microservices Architecture  
+✅ Real-Time Emotion Detection
 
----
+✅ Machine Learning Model Integration
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+✅ AI Web Applications
+
+✅ Live Webcam Prediction Systems
 
 ---
 
-### 🤖 AI / Machine Learning
-- NLP, Computer Vision, Deep Learning  
-- CNNs, RNNs  
-- Classification, Regression, Clustering  
-- Reinforcement Learning  
+## 🔥 Featured Projects
 
----
+### 🧠 Sign Sync – Sign Language Recognition
 
-### 🔄 Data Engineering
-- Data Preprocessing  
-- ETL Pipelines  
-- Pipeline Optimization  
+- MediaPipe Hands
+- React + TypeScript
+- NLP Prediction Engine
+- Text-to-Speech
+- Hindi & English Support
 
----
+### 🤖 SentinelX Bot Detection Guardrail
 
-### 🔗 APIs & Architecture
-- RESTful APIs  
-- API Integration  
-- Scalable System Design  
+- Behavioral Biometrics
+- Bot Detection
+- Spam Detection
+- Real-Time Monitoring
+- Session Analytics
 
----
+### 🎨 Neon Air Draw
 
-## 🔥 Projects
-
-### 🧠 IT Support Ticket System (Full Stack)
-- Built using **React, Node.js, SQL, MongoDB**  
-- Handled **50+ users** with real-time ticket tracking  
-- Designed REST APIs for secure and scalable operations  
-- Admin dashboard with analytics & workflow management  
-
----
-
-### 🤖 SentinelX Bot Detection System
-- Behavioral biometrics-based bot detection  
-- Tracks clicks, keystrokes, and user interaction patterns  
-- Real-time classification: human / suspicious / bot  
-- NLP-based spam detection system  
-
----
-
-### 📄 AI PDF Reader & Converter
-- AI-powered document processing system  
-- Text extraction, keyword detection & classification  
-- Optimized pipelines → **30% faster processing**  
-
----
-
-### 🎨 Neon Air Draw (AI Spatial Interface)
-- Gesture-based drawing using **MediaPipe + OpenCV**  
-- Real-time tracking (~30 FPS)  
-- Built with React + Canvas API  
-- Touchless human-computer interaction system  
-
----
+- Gesture-Based Drawing
+- MediaPipe + OpenCV
+- React + Canvas API
+- Real-Time Hand Tracking
 
 ### 😊 Real-Time Emotion Detection
-- Built using **Python + OpenCV + ML models**  
-- Trained on 1000+ images (80–85% accuracy)  
-- Live webcam-based emotion prediction  
+
+- Python
+- OpenCV
+- Machine Learning
+- Live Webcam Analysis
+
+### 📄 AI PDF Reader & Converter
+
+- Intelligent Document Processing
+- Text Extraction
+- Content Classification
+- Optimized Data Pipelines
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushtha30&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Anushtha30&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anushtha30&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushtha30&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anushtha30&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 Achievements
+
+🏅 150+ LeetCode Problems Solved
+
+🏅 AWS Cloud Computing Certified
+
+🏅 IBM Data Science Certified
+
+🏅 Cisco Certification
+
+🏅 Multiple AI & Full Stack Projects Deployed
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushtha-sharma31/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://anushthasharma-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web">
+
+  <a href="https://anushthasharmaxai.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
   </a>
+
   <a href="https://leetcode.com/u/anushtha30/">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Building intelligent systems, not just projects ✨</p>
+<h3 align="center">✨ Building Intelligent Systems, Not Just Projects ✨</h3>
